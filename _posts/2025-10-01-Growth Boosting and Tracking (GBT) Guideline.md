@@ -51,7 +51,7 @@ The Growth Boosting and Tracking (GBT) system accelerates personal capability de
 
 ### 3.1 System Flow
 ![[assets/images/Pasted image 20251001103218.png]]
-
+![Flow Chart](/assets/images/Pasted image 20251001103218.png)
 
 
 ### 3.2 Detailed Process Steps
