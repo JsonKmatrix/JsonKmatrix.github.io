@@ -1,5 +1,7 @@
-# Growth Boosting and Tracking (GBT) System
-## Complete Workflow Guide v3.0
+---
+   title: "Growth Boosting and Tracking (GBT) Guideline"
+   permalink: /Growth Boosting and Tracking (GBT) Guideline/
+---
 
 ## 1. System Overview
 
