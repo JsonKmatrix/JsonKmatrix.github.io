@@ -5,11 +5,7 @@ search: false
 
 @charset "utf-8";
 
-   // 이 부분에서 너비 변수를 재정의합니다
-   $max-width: 1280px; // 기본값보다 더 넓은 값으로 설정
-# $right-sidebar-width-narrow: 200px; // 사이드바 너비 조정 (선택사항)
-# $right-sidebar-width: 250px; // 사이드바 너비 조정 (선택사항)
-# $right-sidebar-width-wide: 300px; // 사이드바 너비 조정 (선택사항)
+$max-width: 1280px; 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
