@@ -25,8 +25,8 @@ description              : "Building Growth Boosting and Tracking PKMS for ADHDs
 url                      : "https://JsonKmatrix.github.io"
 baseurl                  : ""
 repository               : "JsonKmatrix/growth-booster"
-teaser                   : "/assets/images/profile_mini.png"
-logo                     : "/assets/images/88x88.png"
+teaser                   : ""
+logo                     : ""
 masthead_title           : "Growth Booster"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Growth Booster Team"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_mini.png"
   bio              : "Building growth boosting and tracking PKM system for ADHDs.🚀"
   location         : "Seoul, Korea"
   email            :
