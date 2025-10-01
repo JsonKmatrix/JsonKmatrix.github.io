@@ -7,3 +7,8 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__footer {
+  background-color: #8ea9a2 !important;  /* 원하는 색상으로 변경 */
+  color: #ecf0f1 !important;             /* 텍스트 색상 */
+}
